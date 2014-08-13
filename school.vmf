@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "4037"
-	"mapversion" "327"
+	"mapversion" "328"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,7 +44,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "327"
+	"mapversion" "328"
 	"classname" "worldspawn"
 	"skyname" "sky_day01_09"
 	"maxpropscreenwidth" "-1"
@@ -112000,8 +112000,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-682.423 -1372.24 301.44]"
-		"look" "[-598.169 -665.641 385.213]"
+		"position" "[184.361 2.6086 124.135]"
+		"look" "[400.294 537.071 -301.45]"
 	}
 }
 cordon
